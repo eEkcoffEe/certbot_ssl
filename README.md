@@ -41,7 +41,7 @@ IP:
 ````
 
 Проверка:
-
+````
 ```bash
 ping sub-portal.free.com
 ````
