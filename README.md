@@ -38,10 +38,10 @@ sub-portal.free.com
 IP:
 157.157.157.157
 
-````
+
 
 Проверка:
-````
+
 ```bash
 ping sub-portal.free.com
 ````
