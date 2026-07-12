@@ -319,28 +319,5 @@ Private key:
 
 Renew:
 Enabled
-```
-
----
-
-# Поддерживаемые системы
-
-Проверено:
-
-* Ubuntu 22.04
-* Ubuntu 24.04
-* Debian 11+
-
-```
-
-Можно положить рядом:
-
-```
-
-ssl-certbot/
-├── README.md
-└── setup_ssl.sh
-
-```
 
 
